@@ -92,6 +92,7 @@ brew install imagemagick --with-webp
 #brew install pigz
 #brew install pv
 brew install rename
+brew install rbenv
 #brew install rhino
 brew install speedtest_cli
 brew install ssh-copy-id
